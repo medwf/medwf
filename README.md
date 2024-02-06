@@ -34,8 +34,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medwf&" alt="medwf" /></p>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/medwf/medwf/blob/main/.github/workflows/main.yml" />
   <br/>
-</div>
+</div> -->
