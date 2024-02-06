@@ -36,6 +36,6 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/medwf/medwf/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/medwf/medwf/blob/main/.github/workflows/main.yml" />
   <br/>
 </div>
