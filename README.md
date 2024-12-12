@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [working on it porfolio](working on it)
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="center">Languages and Tools:</h1>
 <h2 align="left" >Programming Languages</h2>
 <p align="center" style="margin: 40px auto">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
