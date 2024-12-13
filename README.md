@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BigMarkets](https://gitlab.com/medwf/market), [Search new AI Project](https://gitlab.com/medwf/market)
 
-- 🌱 I’m currently learning **React, jest, enzyme, Tailwind**
+- 🌱 I’m currently learning **PHP, React with Test jest and enzyme, Tailwind**
 
 - 👨‍💻 All of my projects are available at [working on it](working on it)
 
