@@ -83,8 +83,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** based in Casab
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medwf&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
+<img src="https://github-readme-stats.vercel.app/api?username=medwf&show_icons=true&theme=tokyonight" width="400">
 
 ---
 
