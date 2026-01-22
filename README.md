@@ -83,26 +83,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** based in Casab
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=medwf&show_icons=true&theme=tokyonight" width="400">
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=medwf&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## 📌 Pinned Repositories
 
